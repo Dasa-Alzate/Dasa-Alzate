@@ -5,15 +5,15 @@
 </h3>
   
 <p align="center">
-Programo desde hace más de 10 años, y ha sido una parte importante de mi vida desde entonces. Me interesan todas las áreas del ciclo de vida de un programa, desde su diseño y ejecución, hasta su desarrollo y mantenimiento.
+Programo desde hace más de 10 años, y ha sido una parte importante de mi vida desde entonces. Me interesan todas las áreas del ciclo de vida de un programa, desde su diseño y ejecución hasta su desarrollo y mantenimiento.
 </p>
   
 <p align="center">
-He trabajado principalmente en el area de desarrollo web, sumando al rededor de tres años de experiencia. He liderado equipos de desarrollo, entrenado programadores y liderado las areas de UI/UX y Arquitecturas de base de datos en varios proyectos.
+He trabajado principalmente en el área de desarrollo web, acumulando alrededor de tres años de experiencia. He liderado equipos de desarrollo, entrenado programadores y dirigido las áreas de UI/UX y arquitectura de bases de datos en varios proyectos.
 </p>
   
 <p align="center">
-Me gusta tener un panorama general de la industria y suelo estar al tanto de esta.
+Me gusta tener una visión general de la industria y suelo estar al tanto de sus avances.
 </p>
 
 <br>
