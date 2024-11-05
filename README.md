@@ -1,9 +1,5 @@
 # 👋 ¡Hola! Soy David
-
-<h3 align="center">
-  Acerca de mí
-</h3>
-  
+<br>  
 <p align="center">
 Programo desde hace más de 10 años, y ha sido una parte importante de mi vida desde entonces. Me interesan todas las áreas del ciclo de vida de un programa, desde su diseño y ejecución hasta su desarrollo y mantenimiento.
 </p>
@@ -17,9 +13,6 @@ Me gusta tener una visión general de la industria y suelo estar al tanto de sus
 </p>
 
 <br>
-<h3 align="center">
-  Experiencia y Estudios
-</h3>
 
 ### 📚 **Estudios**:
   - <h6> 💡 Ingeniería Eléctrica en <i>Universidad tecnológica de Pereira</i>
